@@ -35,15 +35,15 @@ https://templatemo.com/tm-595-3d-coverflow
             justify-content: center;
         }
 
-        #home {
+        #Beranda {
             background: radial-gradient(ellipse at center, #1a1a2e 0%, #0f0f0f 100%);
         }
 
-        #about {
+        #Tentang {
             background: linear-gradient(135deg, #0f0f0f 0%, #1a1a2e 100%);
         }
 
-        #contact {
+        #kontak {
             background: radial-gradient(ellipse at center, #1a1a2e 0%, #0f0f0f 100%);
         }
 
